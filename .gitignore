@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# pound sign is comment
+# the asterisk symbol * is a wildcard ie *.txt
